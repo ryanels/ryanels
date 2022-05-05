@@ -1,6 +1,8 @@
-### Hi there 👋 I am Ryan
+### Hello there! 👋
 
-I’m currently pursuing a Master of Science (MS) in Analytics through Georgia Tech. Expected Graduation in August 2022.
+My name is Ryan Elson, and I will graduate in August 2022 with a Master of Science (MS) in Analytics through Georgia Tech.
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ryan-elson-6310817a/)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ryanels}.${ryanels})
 
