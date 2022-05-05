@@ -2,7 +2,7 @@
 
 I’m currently pursuing a Master of Science (MS) in Analytics through Georgia Tech. Expected Graduation in August 2022.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${ryanels}.${ryanels})
 
 <!--
 **ryanels/ryanels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
