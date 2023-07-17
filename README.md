@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-My name is Ryan Elson, and I am currently working for Elevance Health (Anthem Health Insurance) as a Data Architect II. I graduated with a Master of Science (MS) in Analytics (Data Science and Machine Learning) from Georgia Tech in 2022.
+My name is Ryan Elson, and I currently work for Elevance Health (Anthem Health Insurance) as a Data Architect II. I graduated with a Master of Science (MS) in Analytics (Data Science and Machine Learning) from Georgia Tech in 2022.
 
 Coursework includes: Regression, Machine Learning, Data Mining and Statistical Learning, Visualization, Simulation, Analytical Modeling, High-Dimensional Data Analytics. Experience using R, Python, AWS Ground Truth and Sagemaker, and Arena, as well as Tableau, SQL, and D3.
 
