@@ -6,7 +6,7 @@ Coursework includes: Regression, Machine Learning, Data Mining and Statistical L
 
 A few highlights with Elevance include:
 
-•	Eliminate the need for a parallel ETL pipeline by creating dimensional tables and implementing their use across numerous systems (SQL Server)
+•	Eliminate the need for parallel ETL pipelines by creating dimensional tables and implementing their use across numerous systems (SQL Server)
 
 •	Automate data ingestion processes via Python scripts and SSIS packages
 
